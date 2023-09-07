@@ -1,2 +1,2 @@
-<h1>FIND AVERAGE IN PROMPT</h1><br>
+#FIND AVERAGE IN PROMPT<br>
 <h3>Author: Hamza Khan Lodhi</h3>
